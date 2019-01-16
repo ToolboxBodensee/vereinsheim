@@ -8,14 +8,14 @@ Ein grober Plan des Toolbox Vereinsheim und in welchen Raum was zu finden ist.
  Missing Features
 --------------------
 
- + genaue abmessungen der Räume
-   * Die aktuellen zahlen haben sich beim nachmesen als falsch herausgestellt
+ + Genaue Abmessungen der Räume
+   * Die aktuellen Zahlen haben sich beim nachmessen als falsch herausgestellt
  + Maßstabsgetreue Zeichnung
-   * aktuell ist es nur eine grobe übersicht
+   * Aktuell ist es nur eine grobe Übersicht
  + CAD
-   * man kann nie genau genug sein!
-   * man könnte die kabelführung mit einzeichnen
-   * Jede steckdose und lanbuchse muss gemappt sein
+   * Man kann nie genau genug sein!
+   * Man könnte die Kabelführung mit einzeichnen
+   * Jede Steckdose und LAN-buchse muss gemapt sein
  + 3D Gebäude
-   * Eine 3D version der toolbox wäre nice
-   * hier würden sich auch stationäre dinge wie die tische etc. einzeichnen lassen
+   * Eine 3D-Version der Toolbox wäre nice
+   * Hier würden sich auch stationäre Dinge wie die Tische etc. einzeichnen lassen
