@@ -14,7 +14,7 @@
    viewBox="0 0 772.78314 416.69437"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="Vereinsheim.svg">
   <defs
      id="defs2" />
@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35355339"
-     inkscape:cx="1471.0331"
-     inkscape:cy="575.63442"
+     inkscape:cx="1236.2736"
+     inkscape:cy="725.54106"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1916"
-     inkscape:window-height="1157"
-     inkscape:window-x="1920"
-     inkscape:window-y="20"
+     inkscape:window-height="1032"
+     inkscape:window-x="2560"
+     inkscape:window-y="22"
      inkscape:window-maximized="0"
      fit-margin-top="22"
      fit-margin-left="22"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,7 +56,8 @@
      inkscape:label="Gebäude"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(37.49702,50.343323)">
+     transform="translate(37.49702,50.343323)"
+     sodipodi:insensitive="true">
     <g
        id="g220"
        transform="translate(194.8615,18.045829)"
@@ -239,7 +240,7 @@
        style="fill:#000000;stroke-width:0.29279214" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.33736742;"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.33736742"
        x="1.2629908"
        y="11.359776"
        id="text106"><tspan
@@ -247,7 +248,7 @@
          id="tspan104"
          x="1.2629908"
          y="11.359776"
-         style="font-size:53.49470139px;line-height:1.25;stroke-width:1.33736742;fill:#000000;">UG</tspan></text>
+         style="font-size:53.49470139px;line-height:1.25;fill:#000000;stroke-width:1.33736742">UG</tspan></text>
     <rect
        style="fill:#000000;stroke-width:0.26458332"
        id="rect124"
@@ -431,7 +432,8 @@
        id="rect192"
        transform="scale(1,-1)"
        style="fill:#000000;stroke-width:0.40459251"
-       d="m 146.96022,-262.53287 h 5.61266 v 52.49761 h -5.61266 z m -16.82001,5.62693 h 16.82023 v -5.61266 h -16.82023 z" />
+       d="m 146.96022,-262.53287 h 5.61266 v 52.49761 h -5.61266 z m -16.82001,5.62693 h 16.82023 v -5.61266 h -16.82023 z"
+       inkscape:connector-curvature="0" />
     <g
        transform="matrix(1,0,0,-1.1838341,194.8615,400.50569)"
        id="g240"
@@ -573,9 +575,9 @@
        id="text260"
        y="13.249657"
        x="190.25108"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.33736742;"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.33736742"
        xml:space="preserve"><tspan
-         style="font-size:53.49470139px;line-height:1.25;stroke-width:1.33736742;fill:#000000;"
+         style="font-size:53.49470139px;line-height:1.25;fill:#000000;stroke-width:1.33736742"
          y="13.249657"
          x="190.25108"
          id="tspan258"
@@ -829,7 +831,7 @@
        y="180.36569" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.33736742;"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.33736742"
        x="363.81769"
        y="13.249657"
        id="text358"><tspan
@@ -837,7 +839,7 @@
          id="tspan356"
          x="363.81769"
          y="13.249657"
-         style="font-size:53.49470139px;line-height:1.25;stroke-width:1.33736742;fill:#000000;">OG</tspan></text>
+         style="font-size:53.49470139px;line-height:1.25;fill:#000000;stroke-width:1.33736742">OG</tspan></text>
     <rect
        y="338.58679"
        x="342.61929"
@@ -943,7 +945,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4636955;"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4636955"
        x="205.22829"
        y="56.985538"
        id="text210"><tspan
@@ -951,19 +953,19 @@
          id="tspan208"
          x="205.22829"
          y="60.102726"
-         style="font-size:18.54782104px;line-height:1.25;stroke-width:0.4636955;fill:#000000;" /></text>
+         style="font-size:18.54782104px;line-height:1.25;fill:#000000;stroke-width:0.4636955" /></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot248"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion250"
-         style="fill:#000000;"><rect
+         style="fill:#000000"><rect
            id="rect253"
            width="156.96709"
            height="40.294231"
            x="966.46014"
            y="1377.0452"
-           style="fill:#000000;" /></flowRegion><flowPara
+           style="fill:#000000" /></flowRegion><flowPara
          id="flowPara255" /></flowRoot>    <path
        id="rect293"
        style="fill:#000000;stroke:none;stroke-width:0.11507006"
@@ -1003,7 +1005,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Label"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1171,7 +1174,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Details"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4636955"
@@ -1574,7 +1578,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Numbers"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:28.22222137px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1369189"
