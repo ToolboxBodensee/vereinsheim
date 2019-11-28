@@ -1,6 +1,7 @@
  Vereinsheim (Gebäudeübersicht)
 ================================
 
+**Entwicklung nur auf [GitLab](https://gitlab.com/ToolboxBodensee/webseite/vereinsheim). Auf GitHub befindet sich lediglich ein Mirror**
 
 Ein grober Plan des Toolbox Vereinsheim und in welchen Raum was zu finden ist.
 
